@@ -1,0 +1,149 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  border: 0;
+  box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+}
+header {
+  background-color: #d6d6f2;
+  width: 1440px;
+  margin: auto;
+}
+.logo {
+  vertical-align: middle;
+  margin-right: 531px;
+  margin-left: 130px;
+}
+
+nav {
+  background-color: #d6d6f2;
+  display: inline-block;
+  vertical-align: middle;
+}
+li {
+  display: inline-block;
+}
+.navigation {
+  margin-inline: 121px;
+}
+.nav_text {
+  display: inline-block;
+  color: #2414db;
+}
+main {
+  background-color: #d6d6f2;
+  width: 1440px;
+  margin: 0 auto;
+}
+section {
+  height: 439px;
+  width: 1440px;
+}
+.section-img {
+  width: 380px;
+  height: 197px;
+}
+
+.image-container {
+  margin: 220px 145px;
+}
+.section-about {
+  background-color: #d6d6f2;
+  width: 1440px;
+  height: 517px;
+  margin: auto;
+}
+.about-article {
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 73px;
+  width: 519px;
+  height: 260px;
+  margin-left: 130px;
+}
+
+.about-image {
+  width: 566px;
+  height: 371px;
+  margin-top: 73px;
+  margin-left: 100px;
+}
+.about-p {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24.2px;
+  color: #090346;
+  margin-top: 24px;
+}
+
+.about-header {
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 43.57px;
+}
+.conact-section {
+  width: 1440px;
+  height: 546px;
+  margin: auto;
+  background-color: #d6d6f2;
+}
+
+.contact-artice {
+  width: 350px;
+  display: inline-block;
+  vertical-align: top;
+  margin: 86px 173px 130px;
+}
+.contact-h2 {
+  color: #19126b;
+  font-size: 36px;
+  line-height: 36px;
+  font-weight: 400;
+  margin-bottom: 24px;
+}
+.contact-link {
+  color: #0d69a9;
+  font-weight: 400;
+  font-size: 20px;
+}
+.contact-p {
+  color: #673c3c;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 20.02px;
+  margin-bottom: 16px;
+}
+iframe {
+  vertical-align: top;
+  margin-top: 86px;
+}
+
+footer {
+  background-color: #19126b;
+  width: 1440px;
+  height: 161px;
+  margin: auto;
+}
+.footer-text {
+  color: #ffffff;
+  vertical-align: middle;
+  margin-left: 678px;
+  display: inline-block;
+}
+
+.footer-container {
+  display: inline-block;
+  vertical-align: middle;
+  margin-top: 51px;
+  margin-left: 130px;
+}
+
+li {
+  display: inline-block;
+}
